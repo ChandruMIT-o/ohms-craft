@@ -1,0 +1,500 @@
+1,Marina Beach,2,Egmore,5.6
+1,Marina Beach,3,Anna Nagar,12.3
+1,Marina Beach,4,T. Nagar,8.7
+1,Marina Beach,5,Velachery,14.2
+1,Marina Beach,6,Mylapore,6.5
+2,Egmore,1,Marina Beach,5.6
+2,Egmore,3,Anna Nagar,11.1
+2,Egmore,4,T. Nagar,9.4
+2,Egmore,5,Velachery,12.8
+2,Egmore,6,Mylapore,7.3
+3,Anna Nagar,1,Marina Beach,12.3
+3,Anna Nagar,2,Egmore,11.1
+3,Anna Nagar,4,T. Nagar,6.9
+3,Anna Nagar,5,Velachery,9.5
+3,Anna Nagar,6,Mylapore,8.1
+4,T. Nagar,1,Marina Beach,8.7
+4,T. Nagar,2,Egmore,9.4
+4,T. Nagar,3,Anna Nagar,6.9
+4,T. Nagar,5,Velachery,10.5
+4,T. Nagar,6,Mylapore,7.8
+5,Velachery,1,Marina Beach,14.2
+5,Velachery,2,Egmore,12.8
+5,Velachery,3,Anna Nagar,9.5
+5,Velachery,4,T. Nagar,10.5
+5,Velachery,6,Mylapore,4.6
+6,Mylapore,1,Marina Beach,6.5
+6,Mylapore,2,Egmore,7.3
+6,Mylapore,3,Anna Nagar,8.1
+6,Mylapore,4,T. Nagar,7.8
+6,Mylapore,5,Velachery,4.6
+7,Adyar,1,Marina Beach,7.8
+7,Adyar,2,Egmore,9.6
+7,Adyar,3,Anna Nagar,11.2
+7,Adyar,4,T. Nagar,10.5
+7,Adyar,5,Velachery,4.1
+8,Guindy,1,Marina Beach,10.2
+8,Guindy,2,Egmore,9.3
+8,Guindy,3,Anna Nagar,12.7
+8,Guindy,4,T. Nagar,8.8
+8,Guindy,5,Velachery,5.9
+9,Besant Nagar,1,Marina Beach,9.4
+9,Besant Nagar,2,Egmore,8.3
+9,Besant Nagar,3,Anna Nagar,10.5
+9,Besant Nagar,4,T. Nagar,6.7
+9,Besant Nagar,5,Velachery,3.2
+10,Nungambakkam,1,Marina Beach,10.8
+10,Nungambakkam,2,Egmore,6.9
+10,Nungambakkam,3,Anna Nagar,11.6
+10,Nungambakkam,4,T. Nagar,8.1
+10,Nungambakkam,5,Velachery,7.3
+11,Saidapet,12,Royapettah,3.9
+11,Saidapet,13,Triplicane,5.1
+11,Saidapet,14,Kodambakkam,7.2
+11,Saidapet,15,Ashok Nagar,4.5
+11,Saidapet,16,Thiruvanmiyur,10.1
+12,Royapettah,11,Saidapet,3.9
+12,Royapettah,13,Triplicane,1.7
+12,Royapettah,14,Kodambakkam,6.3
+12,Royapettah,15,Ashok Nagar,9.4
+12,Royapettah,16,Thiruvanmiyur,7.8
+13,Triplicane,11,Saidapet,5.1
+13,Triplicane,12,Royapettah,1.7
+13,Triplicane,14,Kodambakkam,6.5
+13,Triplicane,15,Ashok Nagar,8.3
+13,Triplicane,16,Thiruvanmiyur,7.1
+14,Kodambakkam,11,Saidapet,7.2
+14,Kodambakkam,12,Royapettah,6.3
+14,Kodambakkam,13,Triplicane,6.5
+14,Kodambakkam,15,Ashok Nagar,3.6
+14,Kodambakkam,16,Thiruvanmiyur,8.5
+15,Ashok Nagar,11,Saidapet,4.5
+15,Ashok Nagar,12,Royapettah,9.4
+15,Ashok Nagar,13,Triplicane,8.3
+15,Ashok Nagar,14,Kodambakkam,3.6
+15,Ashok Nagar,16,Thiruvanmiyur,5.9
+16,Thiruvanmiyur,11,Saidapet,10.1
+16,Thiruvanmiyur,12,Royapettah,7.8
+16,Thiruvanmiyur,13,Triplicane,7.1
+16,Thiruvanmiyur,14,Kodambakkam,8.5
+16,Thiruvanmiyur,15,Ashok Nagar,5.9
+17,Porur,18,Pallavaram,14.3
+17,Porur,19,Tambaram,12.6
+17,Porur,20,Teynampet,15.8
+17,Porur,21,Ambattur,8.2
+17,Porur,22,Chrompet,10.5
+18,Pallavaram,17,Porur,14.3
+18,Pallavaram,19,Tambaram,6.9
+18,Pallavaram,20,Teynampet,17.1
+18,Pallavaram,21,Ambattur,9.4
+18,Pallavaram,22,Chrompet,4.5
+19,Tambaram,17,Porur,12.6
+19,Tambaram,18,Pallavaram,6.9
+19,Tambaram,20,Teynampet,11.2
+19,Tambaram,21,Ambattur,15.7
+19,Tambaram,22,Chrompet,9.1
+20,Teynampet,17,Porur,15.8
+20,Teynampet,18,Pallavaram,17.1
+20,Teynampet,19,Tambaram,11.2
+20,Teynampet,21,Ambattur,10.9
+20,Teynampet,22,Chrompet,13.7
+21,Ambattur,17,Porur,8.2
+21,Ambattur,18,Pallavaram,9.4
+21,Ambattur,19,Tambaram,15.7
+21,Ambattur,20,Teynampet,10.9
+21,Ambattur,22,Chrompet,12.3
+22,Chrompet,17,Porur,10.5
+22,Chrompet,18,Pallavaram,4.5
+22,Chrompet,19,Tambaram,9.1
+22,Chrompet,20,Teynampet,13.7
+22,Chrompet,21,Ambattur,12.3
+23,Aminjikarai,24,Madipakkam,11.2
+23,Aminjikarai,25,Thirumangalam,6.7
+23,Aminjikarai,26,Vadapalani,5.8
+23,Aminjikarai,27,Kotturpuram,8.9
+23,Aminjikarai,28,Egmore,10.6
+24,Madipakkam,23,Aminjikarai,11.2
+24,Madipakkam,25,Thirumangalam,7.1
+24,Madipakkam,26,Vadapalani,12.3
+24,Madipakkam,27,Kotturpuram,9.4
+24,Madipakkam,28,Egmore,15.8
+25,Thirumangalam,23,Aminjikarai,6.7
+25,Thirumangalam,24,Madipakkam,7.1
+25,Thirumangalam,26,Vadapalani,5.3
+25,Thirumangalam,27,Kotturpuram,9.7
+25,Thirumangalam,28,Egmore,12.5
+26,Vadapalani,23,Aminjikarai,5.8
+26,Vadapalani,24,Madipakkam,12.3
+26,Vadapalani,25,Thirumangalam,5.3
+26,Vadapalani,27,Kotturpuram,7.6
+26,Vadapalani,28,Egmore,9.2
+27,Kotturpuram,23,Aminjikarai,8.9
+27,Kotturpuram,24,Madipakkam,9.4
+27,Kotturpuram,25,Thirumangalam,9.7
+27,Kotturpuram,26,Vadapalani,7.6
+27,Kotturpuram,28,Egmore,8.1
+28,Egmore,23,Aminjikarai,10.6
+28,Egmore,24,Madipakkam,15.8
+28,Egmore,25,Thirumangalam,12.5
+28,Egmore,26,Vadapalani,9.2
+28,Egmore,27,Kotturpuram,8.1
+29,Villivakkam,30,Chetpet,6.9
+29,Villivakkam,31,Nanganallur,13.7
+29,Villivakkam,32,Mogappair,9.1
+29,Villivakkam,33,T. Nagar,11.5
+29,Villivakkam,34,Perambur,4.8
+30,Chetpet,29,Villivakkam,6.9
+30,Chetpet,31,Nanganallur,12.3
+30,Chetpet,32,Mogappair,7.6
+30,Chetpet,33,T. Nagar,8.2
+30,Chetpet,34,Perambur,9.4
+31,Nanganallur,29,Villivakkam,13.7
+31,Nanganallur,30,Chetpet,12.3
+31,Nanganallur,32,Mogappair,16.8
+31,Nanganallur,33,T. Nagar,14.2
+31,Nanganallur,34,Perambur,10.5
+32,Mogappair,29,Villivakkam,9.1
+32,Mogappair,30,Chetpet,7.6
+32,Mogappair,31,Nanganallur,16.8
+32,Mogappair,33,T. Nagar,11.3
+32,Mogappair,34,Perambur,8.9
+33,T. Nagar,29,Villivakkam,11.5
+33,T. Nagar,30,Chetpet,8.2
+33,T. Nagar,31,Nanganallur,14.2
+33,T. Nagar,32,Mogappair,11.3
+33,T. Nagar,34,Perambur,6.1
+34,Perambur,29,Villivakkam,4.8
+34,Perambur,30,Chetpet,9.4
+34,Perambur,31,Nanganallur,10.5
+34,Perambur,32,Mogappair,8.9
+34,Perambur,33,T. Nagar,6.1
+35,Shenoy Nagar,36,Velachery,16.3
+35,Shenoy Nagar,37,Tharamani,13.7
+35,Shenoy Nagar,38,Medavakkam,10.5
+35,Shenoy Nagar,39,Ambattur Industrial Estate,9.2
+35,Shenoy Nagar,40,West Mambalam,8.4
+36,Velachery,35,Shenoy Nagar,16.3
+36,Velachery,37,Tharamani,5.8
+36,Velachery,38,Medavakkam,12.1
+36,Velachery,39,Ambattur Industrial Estate,15.7
+36,Velachery,40,West Mambalam,10.6
+37,Tharamani,35,Shenoy Nagar,13.7
+37,Tharamani,36,Velachery,5.8
+37,Tharamani,38,Medavakkam,9.3
+37,Tharamani,39,Ambattur Industrial Estate,12.9
+37,Tharamani,40,West Mambalam,8.1
+38,Medavakkam,35,Shenoy Nagar,10.5
+38,Medavakkam,36,Velachery,12.1
+38,Medavakkam,37,Tharamani,9.3
+38,Medavakkam,39,Ambattur Industrial Estate,13.6
+38,Medavakkam,40,West Mambalam,6.7
+39,Ambattur Industrial Estate,35,Shenoy Nagar,9.2
+39,Ambattur Industrial Estate,36,Velachery,15.7
+39,Ambattur Industrial Estate,37,Tharamani,12.9
+39,Ambattur Industrial Estate,38,Medavakkam,13.6
+39,Ambattur Industrial Estate,40,West Mambalam,8.3
+40,West Mambalam,35,Shenoy Nagar,8.4
+40,West Mambalam,36,Velachery,10.6
+40,West Mambalam,37,Tharamani,8.1
+40,West Mambalam,38,Medavakkam,6.7
+40,West Mambalam,39,Ambattur Industrial Estate,8.3
+41,Kolathur,42,Thiruverkadu,9.5
+41,Kolathur,43,Sholinganallur,18.7
+41,Kolathur,44,Guindy,15.2
+41,Kolathur,45,Valasaravakkam,8.9
+41,Kolathur,46,Padi,12.6
+42,Thiruverkadu,41,Kolathur,9.5
+42,Thiruverkadu,43,Sholinganallur,21.1
+42,Thiruverkadu,44,Guindy,12.8
+42,Thiruverkadu,45,Valasaravakkam,10.3
+42,Thiruverkadu,46,Padi,6.7
+43,Sholinganallur,41,Kolathur,18.7
+43,Sholinganallur,42,Thiruverkadu,21.1
+43,Sholinganallur,44,Guindy,14.5
+43,Sholinganallur,45,Valasaravakkam,15.6
+43,Sholinganallur,46,Padi,17.8
+44,Guindy,41,Kolathur,15.2
+44,Guindy,42,Thiruverkadu,12.8
+44,Guindy,43,Sholinganallur,14.5
+44,Guindy,45,Valasaravakkam,7.3
+44,Guindy,46,Padi,10.2
+45,Valasaravakkam,41,Kolathur,8.9
+45,Valasaravakkam,42,Thiruverkadu,10.3
+45,Valasaravakkam,43,Sholinganallur,15.6
+45,Valasaravakkam,44,Guindy,7.3
+45,Valasaravakkam,46,Padi,11.1
+46,Padi,41,Kolathur,12.6
+46,Padi,42,Thiruverkadu,6.7
+46,Padi,43,Sholinganallur,17.8
+46,Padi,44,Guindy,10.2
+46,Padi,45,Valasaravakkam,11.1
+47,Keelkattalai,48,Anna Nagar,19.4
+47,Keelkattalai,49,Palavakkam,14.8
+47,Keelkattalai,50,Alandur,12.1
+47,Keelkattalai,51,Perungalathur,17.6
+47,Keelkattalai,52,Nolambur,13.2
+48,Anna Nagar,47,Keelkattalai,19.4
+48,Anna Nagar,49,Palavakkam,12.9
+48,Anna Nagar,50,Alandur,17.3
+48,Anna Nagar,51,Perungalathur,14.6
+48,Anna Nagar,52,Nolambur,10.5
+49,Palavakkam,47,Keelkattalai,14.8
+49,Palavakkam,48,Anna Nagar,12.9
+49,Palavakkam,50,Alandur,7.6
+49,Palavakkam,51,Perungalathur,16.4
+49,Palavakkam,52,Nolambur,19.1
+50,Alandur,47,Keelkattalai,12.1
+50,Alandur,48,Anna Nagar,17.3
+50,Alandur,49,Palavakkam,7.6
+50,Alandur,51,Perungalathur,11.2
+50,Alandur,52,Nolambur,14.8
+51,Perungalathur,47,Keelkattalai,17.6
+51,Perungalathur,48,Anna Nagar,14.6
+51,Perungalathur,49,Palavakkam,16.4
+51,Perungalathur,50,Alandur,11.2
+51,Perungalathur,52,Nolambur,9.9
+52,Nolambur,47,Keelkattalai,13.2
+52,Nolambur,48,Anna Nagar,10.5
+52,Nolambur,49,Palavakkam,19.1
+52,Nolambur,50,Alandur,14.8
+52,Nolambur,51,Perungalathur,9.9
+53,Saligramam,54,Ramapuram,6.5
+53,Saligramam,55,Neelangarai,17.3
+53,Saligramam,56,Puzhuthivakkam,11.8
+53,Saligramam,57,Injambakkam,15.2
+53,Saligramam,58,Ponneri,20.7
+54,Ramapuram,53,Saligramam,6.5
+54,Ramapuram,55,Neelangarai,13.4
+54,Ramapuram,56,Puzhuthivakkam,8.9
+54,Ramapuram,57,Injambakkam,11.1
+54,Ramapuram,58,Ponneri,16.6
+55,Neelangarai,53,Saligramam,17.3
+55,Neelangarai,54,Ramapuram,13.4
+55,Neelangarai,56,Puzhuthivakkam,4.8
+55,Neelangarai,57,Injambakkam,3.5
+55,Neelangarai,58,Ponneri,20.1
+56,Puzhuthivakkam,53,Saligramam,11.8
+56,Puzhuthivakkam,54,Ramapuram,8.9
+56,Puzhuthivakkam,55,Neelangarai,4.8
+56,Puzhuthivakkam,57,Injambakkam,7.4
+56,Puzhuthivakkam,58,Ponneri,18.3
+57,Injambakkam,53,Saligramam,15.2
+57,Injambakkam,54,Ramapuram,11.1
+57,Injambakkam,55,Neelangarai,3.5
+57,Injambakkam,56,Puzhuthivakkam,7.4
+57,Injambakkam,58,Ponneri,14.2
+58,Ponneri,53,Saligramam,20.7
+58,Ponneri,54,Ramapuram,16.6
+58,Ponneri,55,Neelangarai,20.1
+58,Ponneri,56,Puzhuthivakkam,18.3
+58,Ponneri,57,Injambakkam,14.2
+59,Mogappair West,60,Manali,7.9
+59,Mogappair West,61,Kundrathur,12.3
+59,Mogappair West,62,Sriperumbudur,18.5
+59,Mogappair West,63,Mangadu,8.2
+59,Mogappair West,64,Avadi,10.7
+60,Manali,59,Mogappair West,7.9
+60,Manali,61,Kundrathur,15.1
+60,Manali,62,Sriperumbudur,20.4
+60,Manali,63,Mangadu,10.2
+60,Manali,64,Avadi,9.6
+61,Kundrathur,59,Mogappair West,12.3
+61,Kundrathur,60,Manali,15.1
+61,Kundrathur,62,Sriperumbudur,8.4
+61,Kundrathur,63,Mangadu,6.9
+61,Kundrathur,64,Avadi,18.7
+62,Sriperumbudur,59,Mogappair West,18.5
+62,Sriperumbudur,60,Manali,20.4
+62,Sriperumbudur,61,Kundrathur,8.4
+62,Sriperumbudur,63,Mangadu,15.3
+62,Sriperumbudur,64,Avadi,22.1
+63,Mangadu,59,Mogappair West,8.2
+63,Mangadu,60,Manali,10.2
+63,Mangadu,61,Kundrathur,6.9
+63,Mangadu,62,Sriperumbudur,15.3
+63,Mangadu,64,Avadi,9.8
+64,Avadi,59,Mogappair West,10.7
+64,Avadi,60,Manali,9.6
+64,Avadi,61,Kundrathur,18.7
+64,Avadi,62,Sriperumbudur,22.1
+64,Avadi,63,Mangadu,9.8
+65,Porur,66,Adyar,15.1
+65,Porur,67,Guindy,11.7
+65,Porur,68,Anna Nagar,16.2
+65,Porur,69,Chrompet,18.4
+65,Porur,70,Velachery,14.9
+66,Adyar,65,Porur,15.1
+66,Adyar,67,Guindy,9.3
+66,Adyar,68,Anna Nagar,12.7
+66,Adyar,69,Chrompet,20.5
+66,Adyar,70,Velachery,6.8
+67,Guindy,65,Porur,11.7
+67,Guindy,66,Adyar,9.3
+67,Guindy,68,Anna Nagar,8.4
+67,Guindy,69,Chrompet,14.2
+67,Guindy,70,Velachery,12.6
+68,Anna Nagar,65,Porur,16.2
+68,Anna Nagar,66,Adyar,12.7
+68,Anna Nagar,67,Guindy,8.4
+68,Anna Nagar,69,Chrompet,17.9
+68,Anna Nagar,70,Velachery,10.5
+69,Chrompet,65,Porur,18.4
+69,Chrompet,66,Adyar,20.5
+69,Chrompet,67,Guindy,14.2
+69,Chrompet,68,Anna Nagar,17.9
+69,Chrompet,70,Velachery,9.7
+70,Velachery,65,Porur,14.9
+70,Velachery,66,Adyar,6.8
+70,Velachery,67,Guindy,12.6
+70,Velachery,68,Anna Nagar,10.5
+70,Velachery,69,Chrompet,9.7
+71,Guindy,72,Adambakkam,8.7
+71,Guindy,73,Thuraipakkam,9.2
+71,Guindy,74,Velachery,4.1
+71,Guindy,75,Chromepet,15.3
+71,Guindy,76,Alandur,7.8
+72,Adambakkam,71,Guindy,8.7
+72,Adambakkam,73,Thuraipakkam,9.4
+72,Adambakkam,74,Velachery,10.1
+72,Adambakkam,75,Chromepet,6.5
+72,Adambakkam,76,Alandur,5.9
+73,Thuraipakkam,71,Guindy,9.2
+73,Thuraipakkam,72,Adambakkam,9.4
+73,Thuraipakkam,74,Velachery,5.6
+73,Thuraipakkam,75,Chromepet,14.9
+73,Thuraipakkam,76,Alandur,11.2
+74,Velachery,71,Guindy,4.1
+74,Velachery,72,Adambakkam,10.1
+74,Velachery,73,Thuraipakkam,5.6
+74,Velachery,75,Chromepet,18.2
+74,Velachery,76,Alandur,7.5
+75,Chromepet,71,Guindy,15.3
+75,Chromepet,72,Adambakkam,6.5
+75,Chromepet,73,Thuraipakkam,14.9
+75,Chromepet,74,Velachery,18.2
+75,Chromepet,76,Alandur,12.6
+76,Alandur,71,Guindy,7.8
+76,Alandur,72,Adambakkam,5.9
+76,Alandur,73,Thuraipakkam,11.2
+76,Alandur,74,Velachery,7.5
+76,Alandur,75,Chromepet,12.6
+77,Anna Nagar East,78,Tambaram,22.1
+77,Anna Nagar East,79,Velachery,14.9
+77,Anna Nagar East,80,T. Nagar,10.6
+77,Anna Nagar East,81,Adyar,16.8
+77,Anna Nagar East,82,Chrompet,19.3
+78,Tambaram,77,Anna Nagar East,22.1
+78,Tambaram,79,Velachery,18.2
+78,Tambaram,80,T. Nagar,17.9
+78,Tambaram,81,Adyar,20.5
+78,Tambaram,82,Chrompet,9.3
+79,Velachery,77,Anna Nagar East,14.9
+79,Velachery,78,Tambaram,18.2
+79,Velachery,80,T. Nagar,11.3
+79,Velachery,81,Adyar,6.7
+79,Velachery,82,Chrompet,16.1
+80,T. Nagar,77,Anna Nagar East,10.6
+80,T. Nagar,78,Tambaram,17.9
+80,T. Nagar,79,Velachery,11.3
+80,T. Nagar,81,Adyar,8.2
+80,T. Nagar,82,Chrompet,9.5
+81,Adyar,77,Anna Nagar East,16.8
+81,Adyar,78,Tambaram,20.5
+81,Adyar,79,Velachery,6.7
+81,Adyar,80,T. Nagar,8.2
+81,Adyar,82,Chrompet,19.6
+82,Chrompet,77,Anna Nagar East,19.3
+82,Chrompet,78,Tambaram,9.3
+82,Chrompet,79,Velachery,16.1
+82,Chrompet,80,T. Nagar,9.5
+82,Chrompet,81,Adyar,19.6
+83,Thirumangalam,84,Teynampet,6.9
+83,Thirumangalam,85,Tiruvottiyur,17.5
+83,Thirumangalam,86,Tirusulam,12.3
+83,Thirumangalam,87,Triplicane,9.1
+83,Thirumangalam,88,Urapakkam,23.4
+84,Teynampet,83,Thirumangalam,6.9
+84,Teynampet,85,Tiruvottiyur,18.1
+84,Teynampet,86,Tirusulam,14.7
+84,Teynampet,87,Triplicane,8.6
+84,Teynampet,88,Urapakkam,19.8
+85,Tiruvottiyur,83,Thirumangalam,17.5
+85,Tiruvottiyur,84,Teynampet,18.1
+85,Tiruvottiyur,86,Tirusulam,12.9
+85,Tiruvottiyur,87,Triplicane,14.6
+85,Tiruvottiyur,88,Urapakkam,22.7
+86,Tirusulam,83,Thirumangalam,12.3
+86,Tirusulam,84,Teynampet,14.7
+86,Tirusulam,85,Tiruvottiyur,12.9
+86,Tirusulam,87,Triplicane,11.4
+86,Tirusulam,88,Urapakkam,25.1
+87,Triplicane,83,Thirumangalam,9.1
+87,Triplicane,84,Teynampet,8.6
+87,Triplicane,85,Tiruvottiyur,14.6
+87,Triplicane,86,Tirusulam,11.4
+87,Triplicane,88,Urapakkam,22.5
+88,Urapakkam,83,Thirumangalam,23.4
+88,Urapakkam,84,Teynampet,19.8
+88,Urapakkam,85,Tiruvottiyur,22.7
+88,Urapakkam,86,Tirusulam,25.1
+88,Urapakkam,87,Triplicane,22.5
+89,Porur,90,Korattur,12.5
+89,Porur,91,Chromepet,15.7
+89,Porur,92,Guindy,11.2
+89,Porur,93,Velachery,16.4
+89,Porur,94,Anna Nagar,13.8
+90,Korattur,89,Porur,12.5
+90,Korattur,91,Chromepet,20.3
+90,Korattur,92,Guindy,17.6
+90,Korattur,93,Velachery,18.9
+90,Korattur,94,Anna Nagar,8.5
+91,Chromepet,89,Porur,15.7
+91,Chromepet,90,Korattur,20.3
+91,Chromepet,92,Guindy,5.9
+91,Chromepet,93,Velachery,8.1
+91,Chromepet,94,Anna Nagar,21.7
+92,Guindy,89,Porur,11.2
+92,Guindy,90,Korattur,17.6
+92,Guindy,91,Chromepet,5.9
+92,Guindy,93,Velachery,7.3
+92,Guindy,94,Anna Nagar,12.6
+93,Velachery,89,Porur,16.4
+93,Velachery,90,Korattur,18.9
+93,Velachery,91,Chromepet,8.1
+93,Velachery,92,Guindy,7.3
+93,Velachery,94,Anna Nagar,14.9
+94,Anna Nagar,89,Porur,13.8
+94,Anna Nagar,90,Korattur,8.5
+94,Anna Nagar,91,Chromepet,21.7
+94,Anna Nagar,92,Guindy,12.6
+94,Anna Nagar,93,Velachery,14.9
+95,Teynampet,96,Guindy,6.7
+95,Teynampet,97,Thiruvanmiyur,7.8
+95,Teynampet,98,Velachery,10.1
+95,Teynampet,99,Mylapore,5.4
+95,Teynampet,100,Adyar,4.9
+96,Guindy,95,Teynampet,6.7
+96,Guindy,97,Thiruvanmiyur,12.3
+96,Guindy,98,Velachery,5.6
+96,Guindy,99,Mylapore,10.9
+96,Guindy,100,Adyar,8.2
+97,Thiruvanmiyur,95,Teynampet,7.8
+97,Thiruvanmiyur,96,Guindy,12.3
+97,Thiruvanmiyur,98,Velachery,8.5
+97,Thiruvanmiyur,99,Mylapore,3.9
+97,Thiruvanmiyur,100,Adyar,6.4
+98,Velachery,95,Teynampet,10.1
+98,Velachery,96,Guindy,5.6
+98,Velachery,97,Thiruvanmiyur,8.5
+98,Velachery,99,Mylapore,7.7
+98,Velachery,100,Adyar,4.3
+99,Mylapore,95,Teynampet,5.4
+99,Mylapore,96,Guindy,10.9
+99,Mylapore,97,Thiruvanmiyur,3.9
+99,Mylapore,98,Velachery,7.7
+99,Mylapore,100,Adyar,2.3
+100,Adyar,95,Teynampet,4.9
+100,Adyar,96,Guindy,8.2
+100,Adyar,97,Thiruvanmiyur,6.4
+100,Adyar,98,Velachery,4.3
+100,Adyar,99,Mylapore,2.3
